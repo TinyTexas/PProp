@@ -1,0 +1,2 @@
+G-Code Files for Motor Mounts/Ballast Box/RBMount will not be provided since they can be sliced using the normal printing method.
+I would recommend using PETG or ABS when printing these parts since they all require some sort of strength and resistance to heat.
